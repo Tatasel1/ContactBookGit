@@ -1,6 +1,8 @@
 # Team Members
 Teodora Marmureanu   79363
+
 Daniel Valentin Tatasel   79364
+
 Rodrigo Beirão de Moura   71429
 
 
