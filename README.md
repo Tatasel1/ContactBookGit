@@ -1,3 +1,9 @@
+# Team Members
+Teodora Marmureanu   79363
+Daniel Valentin Tatasel   79364
+Rodrigo Beirão de Moura   71429
+
+
 # ContactBookGit
 This is a starter kit for the first lab of the Software Engineering Course.
 Fork this project to make your own version of it.
